@@ -1,0 +1,19 @@
+{
+  "name": "kscope",
+  "version": "0.0.1",
+  "description": "Jena based content management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtcagle/kscope.git"
+  },
+  "author": "kurt.cagle@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurtcagle/kscope/issues"
+  },
+  "homepage": "https://github.com/kurtcagle/kscope#readme"
+}
